@@ -1,0 +1,30 @@
+# PEAR PUBLIC LICENSE
+
+Version 1.0, October, 14 2016
+Copyright (c) 2021 Alexandru Balan
+
+# TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+1.	General; Definitions.  This License applies to any program or other work which Pear-Project, or Alexandru Balan ("Pear") makes publicly available and which contains a notice placed by Pear identifying such program or work as "Original Code" and stating that it is subject to the terms of this Pear Public License ("License").  As used in this License:
+ - "Contributor" means any person or entity that creates or contributes to the creation of Modifications.
+ - "Covered Code" means the Original Code, Modifications, the combination of Original Code and any Modifications, and/or any respective portions thereof.
+ - "Larger Work" means a work which combines Covered Code or portions thereof with code not governed by the terms of this License.
+ - "Modifications" mean any addition to, deletion from, and/or change to, the substance and/or structure of the Original Code, any previous Modifications, the combination of Original Code and any previous Modifications, and/or any respective portions thereof.  When code is released as a series of files, a Modification is:  any addition to or deletion from the contents of a file containing Covered Code; and/or any new file or other representation of computer program statements that contains any part of Covered Code.
+ - "Original Code" means the Source Code of a program or other work as originally made available by Pear under this License, including the Source Code of any updates or upgrades to such programs or works made available by Pear under this License, and that has been expressly identified by Pear as such in the header file(s) of such work; and the object code compiled from such Source Code and originally made available by Pear under this License
+ -  "Source Code" means the human readable form of a program or other work licended under this License. It can be shell scripts, XML files, .config files, .ini files
+ - "You" or "Your" means an individual or a legal entity exercising rights under this License.  For legal entities, "You" or "Your" includes any entity which controls, is controlled by, or is under common control with, You, where "control" means the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or ownership of fifty percent (50%) or more of the outstanding shares or beneficial ownership of such entity.
+ - "Stuff" means Your file, device, script, source or work
+
+
+2.What you can DO and can DO NOT
+ 2a. Outright copyright infringement - You are prohibited to copy this and change the name of any Source Code.
+ 2b. Selling the unmodified original with no work done what-so-ever is strictly prohibited
+ 2c. Modifying the original work to contain hidden harmful content is forbidded and will get reported with no questions
+
+3. All software Licensed under the Pear Public License NEEDS to be released under the same Pear Public License
+ 3a. This License is compatible with GNU General Public License.
+ 3b. Pear can change your license to a nolicense or to a GPL license if they want to.
+
+4. Code is provided with no warranty. If something bad happens to Your stuff, the author of this software is NOT reposable.
+
+5. Selling the ORIGINAL code provides the possibility to change the License to other Open Source Licnses (MIT, GPL, Apache, BSD and so on)
