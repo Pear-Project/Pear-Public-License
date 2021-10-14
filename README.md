@@ -1,3 +1,6 @@
+![Pear Public License](https://cdn.discordapp.com/attachments/789071030055731230/898169517329489920/Screenshot_20211014_142424.png)
+
+
 ### Pear Public License v1.0
 
 The PPL Public License is a new license, which comes by default with open-source components made available by Pear-Project or Alexandru Balan. When distributing derived works, the source code of the work must be made available under the same license.
